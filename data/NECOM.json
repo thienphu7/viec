@@ -1,0 +1,2862 @@
+[
+  {
+    "sentence": "Sản phẩm bị lỗi gây kích ứng da. Khi phản ánh thì câu trả lời không thỏa đáng. Tôi rất thất vọng vì sản phẩm có giá cao nhưng chất lượng kém, có dấu hiệu trà trộn hàng không tốt.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Em ơi, chị mua chai nhỏ của sản phẩm này, hạn sử dụng vẫn còn nhưng khi mở ra có mùi rất lạ. Màu sản phẩm sẫm hơn, không trắng như chai lớn. Vậy chị có dùng được không em?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình dùng không được, mùi kem quá hôi, không nâng tông và còn bị dị ứng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình mới mua sản phẩm này, dùng được một ngày thì thấy không hợp, bị ngứa, mẩn đỏ và tróc vảy.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình đã dùng được hai, ba hôm nhưng cứ bôi lên là da châm chích và ngứa. Có phải mình bị dị ứng không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm đợt này dùng rất lạ. Mới tán lên mặt khoảng hai tiếng thì da nổi mụn đầy mặt rồi.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Hãng này bán hàng giả, hàng nhái, hàng kém chất lượng. Mọi người đừng mua.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Hôm tôi mua tuýp nhỏ, quét mã vạch không ra. Sao lại như vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mặt hàng này gây dị ứng cho da.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Loại này dùng bị dị ứng da và nổi rất nhiều mụn.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Em dùng sản phẩm này được hai tuần thì thấy da sần sùi, nhiều mụn không đỏ nhưng hơi ngứa ở vùng cằm và hai bên gần tai. Không biết em có đang bị kích ứng và nên ngưng dùng sản phẩm không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sao sản phẩm này không có mã vạch để quét như sản phẩm cũ mình mua ở chỗ khác vậy?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Hàng giả. Trước giờ mình mua ở chỗ khác dùng không sao, nhưng mua ở Hasaki thì bị nổi nhiều mụn. Hàng không có mã vạch và rất khác so với mẫu mình từng dùng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho mình hỏi sản phẩm này có tem phụ chính hãng không, hay là hàng xách tay nên không có tem phụ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình dùng sản phẩm này thì bị nổi mụn. Vì sao vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm này mình dùng thấy đẩy mụn rất nhiều. Có phải sản phẩm hỗ trợ đẩy mụn không? Dùng thì không bị khô da.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm có tem chống giả không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sao mấy ngày nay mình mua sản phẩm này mà mùi hắc quá vậy ạ? Không giống những đợt trước mình mua. Hay đây là hàng giả?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Em có mua chai này dành cho da khô, nhưng khi dùng thì không có bọt, rửa xong cảm giác nhớt nhớt và không sạch hẳn.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sao mình mua sữa rửa mặt về nhưng kiểm tra mã vạch không ra vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Bạn ơi, em mua tại cửa hàng nhưng khi mở ra thì vòi bị hỏng, em không thể bấm được. Cửa hàng có thể hỗ trợ giúp em được không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Tại sao sau khi mình dùng sản phẩm này rồi dùng những sản phẩm khác thì mặt mình bị rát vậy nhỉ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm mới mua chưa dùng mà vòi đã bị hư rồi.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Tôi mua chai lớn về dùng. Bình thường tôi vẫn dùng hãng đó, nhưng lần này dùng thì mặt bị đỏ, nóng rát và ngứa. Có vẻ như hàng giả, kém chất lượng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm này là hàng giả à? Sao bao bì khác hẳn các mẫu khác vậy? Nhắn tin thì không thấy phản hồi.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm này có phải chính hãng 100% không?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sao màu nước của sản phẩm lại khác trên ảnh thế nhỉ? Màu đục hơn rất nhiều.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình mua chai sữa rửa mặt này. Khi bóc lớp keo dán ra, mình phát hiện miếng dán ở mặt sau bên ngoài bị lột ra và bên trong hiện chữ Nga. Mình không hiểu sản phẩm bên cửa hàng như thế nào. Nhắn tin cho nhân viên tư vấn thì chỉ trả lời lòng vòng, không đúng trọng tâm mình hỏi.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình nhận hàng ngày 11/8 nhưng hạn sử dụng trên bao bì là ngày 2/1/2025, tức chỉ còn khoảng sáu tháng. Bây giờ đã tháng 8 rồi. Hasaki đang bán hàng gần hết hạn cho mình phải không?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho em hỏi mình xem hạn sử dụng ở đâu ạ? Em mới mua nhưng tìm không thấy ạ.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình dùng một lọ nhỏ 100ml thì thấy ổn, nhưng khi chuyển sang lọ lớn thì lại thấy nhờn như bôi dầu. Vì sao vậy nhỉ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình mua sản phẩm về kiểm tra mã vạch trên ứng dụng ứng dụng kiểm tra mã vạch đều không được. Liệu có phải hàng giả không?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Hãng này bán cả hàng giả, hàng nhái. Mọi người đừng mua nha.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sao em dùng sản phẩm này lại bị ngứa và đỏ da vậy?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho mình hỏi sản phẩm có phải chính hãng không ạ? Vì mình kiểm tra thì hiện là sản phẩm chưa được kiểm chứng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Dùng sản phẩm lên mặt bị sủi bọt là sao vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sau khi dùng nước cân bằng da này cùng B5 của La Roche-Posay, sao mặt mình hơi ngứa và châm chích vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Nước tẩy trang tím gì mà dùng lâu cứ bọt bọt, rồi ngứa và nổi mụn hết cả mặt. Sản phẩm lại không đánh giá được, mình rất bực.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Hôm trước em mua chai nước tẩy trang này ở cửa hàng, hôm nay mở ra thì nghe mùi rất lạ. Mùi khác với chai em thường dùng. Vì sao vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Tại sao xuất xứ lại ghi sản xuất tại Trung Quốc như vậy?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho em hỏi sao em xem xuất xứ thì có sản phẩm ghi Trung Quốc, có sản phẩm ghi Pháp vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Chào cửa hàng. Hôm nay mình ghé mua chai tẩy trang này nhưng thấy nắp chai hơi lạ. Trước đó mình từng mua ở cửa hàng chính hãng, còn chai này nắp khá lỏng lẻo, không chắc chắn và bao bì bên ngoài cũng khác cấu trúc so với chai chính hãng ạ.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho em hỏi vì sao chai em mua lại thấy mã vạch Trung Quốc vậy ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình không kiểm tra được mã vạch sản phẩm ạ.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cho hỏi tại sao sản phẩm ghi xuất xứ Pháp nhưng trên bao bì lại ghi sản xuất tại Trung Quốc?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Trước giờ mình luôn tin tưởng Hasaki bán hàng chất lượng và đúng giá. Nhưng thật thất vọng khi hàng nhận được không đảm bảo chất lượng. Dung dịch bên trong tách hẳn hai lớp, lớp bọt nằm dưới một lớp nước. Hàng ghi sản xuất tại Trung Quốc nhưng lại dán nhãn chồng lên giống sản phẩm sản xuất tại Paris, cảm giác như lừa dối khách hàng. Thật không thể chấp nhận được.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình vừa nhận được một cuộc gọi nói rằng nước tẩy trang bên mình bị công an kiểm tra và kết luận là sản phẩm kém chất lượng, khuyên mình không nên dùng. Thông tin này có đúng không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình mua chai nắp bạc, mở ra dùng thì có mùi như cồn, rất nồng. Mình muốn kiểm tra xem đây có phải sản phẩm chính hãng không thì phải làm sao ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình không đánh giá được sản phẩm, nhưng thực sự nước tẩy trang có mùi cồn rất nồng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mặt hàng mình mới đặt đã hết hạn sử dụng rồi hả cửa hàng?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm này sao khi sử dụng lại không có bọt? Dùng xong mặt rất nhớt.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Vừa nhận hàng, quét mã thì thấy là hàng nhái, hàng giả. Mình không hài lòng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Cửa hàng giao sản phẩm gần hết hạn sử dụng cho khách. Hôm nay là ngày 17/1/2026 nhưng hạn sử dụng của sản phẩm chỉ đến ngày 3/2/2026. Quá mất uy tín.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sau khi dùng xong, qua ngày hôm sau lại xuất hiện hai, ba mụn trắng. Mình có nên tiếp tục dùng không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Làm sao để biết hàng có chính hãng hay không? Mình mua một chai về so với chai mua ở tiệm mỹ phẩm lớn thì thấy khác biệt hoàn toàn. Hàng mua ở tiệm có độ sánh, khi lắc thì bọt nổi ở dưới lớp chai. Còn hàng mua ở Hasaki thì lỏng, bọt nổi ở trên. Vỏ và thông số cũng khác hẳn nhau.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản phẩm này là hàng giả ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Lúc mua mình không nhìn kỹ, sản phẩm ghi sản xuất tại Trung Quốc. Mình chưa dùng nên chưa biết chất lượng như thế nào.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Chai khuyến mãi trên tem ghi sản xuất tại Trung Quốc là sao ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mọi lần mình mua nước tẩy trang không bị tách dầu. Sao đợt này nước tẩy trang lại bị tách dầu? Mình tưởng hàng bị lỗi.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sản xuất tại Trung Quốc có ảnh hưởng gì đến chất lượng sản phẩm không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình vừa nhận kem chống nắng nhưng phần niêm phong ở miệng tuýp đã bị rách sẵn. Kiểm tra giúp mình xem sản phẩm có còn đảm bảo không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Chai tinh chất mình nhận được bị rò rỉ ở nắp, dung dịch chảy ra ngoài hộp và mùi cũng hơi chua. Mình lo sản phẩm đã bị hỏng.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Sữa rửa mặt lần này bóp ra bị vón cục li ti, không mịn như những tuýp mình từng mua trước đây. Đây có phải lỗi sản phẩm không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Tem phụ trên hộp bị dán chồng lên tem cũ, phần thông tin nhập khẩu bên dưới bị che mất. Mình muốn kiểm tra sản phẩm này có chính hãng không.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình dùng thử ở vùng quai hàm một lần thì bị nổi mẩn đỏ thành từng mảng. Trước đây mình dùng dòng này không bị như vậy.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Kem dưỡng mới mở ra đã có lớp nước tách riêng phía trên và phần kem bên dưới đặc lại. Sản phẩm như vậy có bị biến chất không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mã quét trên hộp dẫn đến một sản phẩm khác, không trùng với tên sản phẩm mình mua. Cửa hàng giải thích giúp mình với ạ.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Ngày sản xuất trên nhãn phụ bị in mờ và có dấu hiệu bị dán lại. Mình không yên tâm về hạn dùng của sản phẩm này.",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Mình nhận đúng tên sản phẩm nhưng bao bì và kiểu chữ khác hẳn hình trên trang bán hàng. Có phải cửa hàng giao nhầm phiên bản hoặc hàng không chuẩn không?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Nước tẩy trang dùng vào mắt bị cay rát nhiều hơn bình thường, dù mình đã dùng loại này nhiều lần trước đó. Không biết lô hàng này có vấn đề gì không ạ?",
+    "main_intent": "product_issue"
+  },
+  {
+    "sentence": "Bảy ngày rồi mà đơn hàng vẫn chưa được giao là sao?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng không vậy? Mình chờ lâu quá rồi.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng vào ngày lễ 2/9 không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đặt hàng trên trang web thì bao lâu sẽ nhận được ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có nhận giao hàng tận nhà không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn ơi, hàng của em vận chuyển lâu quá vậy ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng nhanh không ạ? Em cần gấp.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Tôi đã đặt hàng trực tuyến, tại sao đến bây giờ vẫn chưa thấy giao hàng?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên Cửa hàng giao hàng quá lâu.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn ơi, em đặt hàng hôm 12 mà sao đến giờ vẫn chưa nhận được ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Cửa hàng giao hàng bằng đơn vị vận chuyển nào ạ? Để mình kiểm tra và nhận hàng.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao hàng vẫn chưa giao cho mình nhỉ? Đã quá 48 giờ rồi cửa hàng.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao không có lựa chọn giao nhanh trong 2 giờ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt một tuần rồi mà vẫn chưa thấy giao hàng. Nếu không giao được thì hủy đơn giúp mình luôn đi bạn.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Em muốn đặt giao liền thì phải làm bằng cách nào ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sản phẩm này có giao ngay trong ngày ở Đà Nẵng không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn ơi, gửi đơn sớm giúp mình được không?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Hàng về lâu không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao em vẫn chưa nhận được hàng ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đặt giao hàng trong 2 giờ thì làm như thế nào ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Ứng dụng báo giao ngày 14/12 mà đến nay vẫn chưa giao. Mình nhắn tin và gọi điện nhưng không thấy phản hồi.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt hàng và được báo giao ngày 14/12/2025, nhưng đến ngày 17/12/2025 vẫn chưa thấy giao. Gọi điện và nhắn tin thì không ai trả lời, cảm giác như cửa hàng không muốn bán hàng. Dịch vụ tư vấn và chăm sóc khách hàng quá tệ.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Hôm nay đơn hàng đã giao được chưa ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Hàng đặt bốn ngày rồi nhưng vẫn chưa giao. Mình nhắn tin thì cũng không ai trả lời.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt từ ngày 12/12 đến bây giờ vẫn chưa được giao.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao mãi vẫn chưa giao hàng vậy?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Có thể giao liền bây giờ cho tôi được không?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao em đặt một chai tẩy trang mà năm, sáu ngày rồi vẫn chưa giao cho em vậy?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đơn mình đặt từ trưa đến tận tối vẫn chưa nhận được. Nhắn tin thì chăm sóc khách hàng không giải quyết, gọi điện cũng không ai nghe máy.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao mình đặt nước tẩy trang mà ba ngày rồi vẫn chưa giao vậy ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt giao nhanh 2 giờ từ trưa đến tối nhưng vẫn chưa nhận được hàng.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng trong 2 giờ không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao đơn hàng từ ngày 25/1 đến giờ mình vẫn chưa nhận được?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao đơn hàng ngày 4/2 đến nay vẫn chưa nhận được? Đây có thật sự là một hãng mỹ phẩm nổi tiếng không vậy?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn gửi đơn giúp mình nhé.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình muốn hỏi nếu mua hai đến ba sản phẩm thì bên mình có giao cùng lúc đúng không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Ở Thành phố Hồ Chí Minh, tổng đơn 200 nghìn có được miễn phí vận chuyển không? Cảm ơn cửa hàng nhiều.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt hàng ba ngày rồi mà vẫn chưa giao ạ.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Giao hàng về Bắc Ninh bao nhiêu ạ? Đơn hàng từ bao nhiêu thì được miễn phí vận chuyển ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Giao hàng về ký túc xá khu B Đại học Quốc gia bao nhiêu ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình giao hàng về tỉnh Kiên Giang mất khoảng bao lâu ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Cửa hàng giao hàng quá lâu. Em đặt cả tuần rồi mà đến giờ vẫn chưa có hàng. Em còn đi học nên nhờ người khác nhận giúp, nhưng bên mình vẫn chưa giao. Em cứ phải nhắc người ta đợi hàng. Mong bên mình giao sớm giúp em ạ.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình muốn mua nhưng cửa hàng không giao hàng ngoại thành thì phải làm sao vậy ạ? Mấy sản phẩm khác cũng vậy nên mình không mua được sản phẩm nào.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng ở Thành phố Hồ Chí Minh không ạ? Sao em bấm mua trực tuyến không được?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao mình đặt hàng mà hệ thống báo không giao hàng ngoại thành là sao ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng về Hà Nội không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Chủ nhật bên mình có giao hàng không?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mua bây giờ thì có giao hàng không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có miễn phí vận chuyển mọi nơi không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Ở Lâm Đồng hiện có giao hàng được không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình còn nhận giao hàng không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đặt hàng trên này có được kiểm hàng trước không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn ơi, lúc trước mình có đặt nước tẩy trang nhưng không thấy bên cửa hàng giao hàng do dịch. Khi hết dịch bên mình sẽ giao lại cho mình hay là đã hủy đơn hàng đó rồi? Cho mình biết để mình đặt sản phẩm khác với ạ.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đơn hàng bao nhiêu thì được miễn phí vận chuyển ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bên mình có giao hàng ở Hải Phòng không vậy? Mình đợi mãi mà hàng vẫn chưa về.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Bạn ơi, mình vừa được nhân viên giao hàng gọi nhận hàng nhưng không có tiền mặt. Mình chuyển khoản cho cửa hàng được không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt giao hàng nhanh 2 giờ mà hơn 3 tiếng rồi vẫn chưa thấy ai giao.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Em ở Chợ Mới, bên mình có giao được không ạ và phí như thế nào vậy ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Nếu bây giờ đặt hàng thì ngày mai giao tới Bến Tre có kịp không?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sản phẩm nằm trong khu vực giao hàng 2 giờ, nhưng đến lúc mua thì không chọn được bước giao hàng 2 giờ. Vì sao vậy ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao mình đặt từ ngày 31/7 đến hôm nay 5/8 vẫn chưa nhận được hàng vậy bạn?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Giao hàng về Nghệ An hết bao nhiêu vậy bạn?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sao mình đặt hàng mà vẫn chưa được giao ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đơn #251212573964, cửa hàng gửi đơn này trong hôm nay giúp mình với. Tuần rồi mình vẫn chưa nhận được hàng.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình mua trên ứng dụng thì có giao hàng luôn không ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Tại sao mình vẫn chưa nhận được hàng ạ? Hơi lâu rồi đó. Mình đã nhắn tin nhưng vẫn không thấy trả lời.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Mình đặt từ lúc còn tiền đến lúc hết tiền vẫn chưa nhận được hàng, trong khi cơ sở gần nhất chỉ cách khoảng 60km. Nếu chậm chuyến công tác thì mình sẽ không nhận nữa.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Hỗ trợ mình xử lý việc nhận hàng với ạ.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Em ở Hải Phòng, nếu đặt hàng thì mất bao nhiêu ngày mới nhận được hàng ạ?",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Em đặt hàng năm ngày rồi mà sao vẫn chưa có hàng vậy ạ? Nhắn tin nhờ hỗ trợ thì cửa hàng cũng không trả lời.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Đơn hàng sáu ngày rồi vẫn chưa giao.",
+    "main_intent": "shipping"
+  },
+  {
+    "sentence": "Sản phẩm này có khuyến mãi trực tuyến không vậy bạn? Mình thấy ghi 30 nghìn lúc 18 giờ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao đã đến 12 giờ ngày 25/1 rồi mà giá vẫn là 145 nghìn vậy ạ? Mình không thấy giảm giá 99 nghìn vậy cửa hàng.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao vẫn chưa thấy hiện ưu đãi vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Gần đến giờ giảm giá rồi mà sản phẩm toàn hiện hết hàng vậy?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Nếu trưa ngày 25/1 tôi không đi săn khuyến mãi được thì có thể săn trên ứng dụng được không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Trên ứng dụng giảm giá lúc 12 giờ ngày 25/1, nếu mình ra Hasaki Tân Phước Khánh thì có được giá khuyến mãi 99 nghìn như vậy không?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mai có giảm giá bộ hai chai nước tẩy trang 400ml không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Giá khuyến mãi trên trang web có áp dụng tại cửa hàng không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cụ thể mấy giờ giảm giá bộ bốn chai 95ml vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Vậy ra cửa hàng có mua được với giá giảm không ạ? Trên ứng dụng đã hết giảm rồi ạ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Ưu đãi trực tuyến đã hết rồi, làm sao để biết cửa hàng còn áp dụng mức ưu đãi đó không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho em hỏi nếu trên trang web giảm giá bao nhiêu thì giá ngoài cửa hàng cũng giống trên trang web phải không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho em hỏi nếu giảm giá trên ứng dụng thì giá ngoài cửa hàng cũng như vậy phải không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình mua ở cửa hàng thì có được tặng quà không, hay chỉ mua trên ứng dụng mới được tặng?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Chạy ưu đãi 122 nghìn mà sao tính đơn thành 132 nghìn vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cửa hàng có bán bộ bốn chai nước tẩy trang nắp bạc với giá như vậy không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Khi đặt hàng mình thấy có chương trình khuyến mãi, nhưng lúc nhận hàng thì không thấy quà tặng.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao sản phẩm hôm nay rẻ vậy ạ? Có tặng kèm quà không?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Hôm nay dòng L’Oreal tím còn khuyến mãi không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Anh/chị ơi, có phiếu giảm giá 30 nghìn không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Hàng có cận hạn sử dụng không mà sao giảm giá lớn vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bây giờ còn tặng nước tẩy trang không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình thấy ghi giảm còn 113 nghìn từ 18 giờ đến 22 giờ, nhưng vào lại không thấy giảm.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Em đặt bây giờ còn được tặng quà không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Hiện tại em mua sản phẩm thì có được tặng quà không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Dạ cho em hỏi hiện mua trực tiếp tại cửa hàng có áp dụng bộ sản phẩm này được không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Đã 16 giờ 13 phút rồi mà sản phẩm vẫn chưa giảm giá.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mấy đợt rồi đều như vậy, có phải giảm giá ảo không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao mình thấy ghi giảm còn 113 nghìn từ 12 giờ đến 24 giờ ngày 15/6 mà đến giờ vẫn chưa giảm? Lúc 12 giờ 30 mình vào xem vẫn chưa giảm.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao vẫn thấy giá cũ vậy ạ? Không thấy xóa giá khuyến mãi.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho mình hỏi giảm giá nước tẩy trang ngày 25/1 lúc 12 giờ là 12 giờ đêm hay 12 giờ trưa vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Tôi không biết cách săn khuyến mãi ngày 25/1. Giá vẫn y nguyên, không giảm như quảng cáo.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Giá ngoài cửa hàng có giảm giá 133 nghìn không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bộ hai chai là mỗi chai 400ml đúng không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sản phẩm này là bộ bốn chai giá 79 nghìn hả cửa hàng?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Còn giá 4 chai 79 nghìn không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Hasaki cho em hỏi bộ bốn chai nước tẩy trang nhỏ 95ml có bán ở cửa hàng không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bộ sản phẩm gồm mỗi chai 95ml hay cả 5 chai tổng cộng 95ml ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bộ bốn chai giá 79 nghìn có sẵn ở cửa hàng không, và giá có giống trên đây không?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao trên Shopee được tặng thêm mẫu dùng thử mà trên ứng dụng lại không có vậy?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mua tại cửa hàng có được khuyến mãi không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mua sản phẩm này từ khung giờ nào thì được nhận quà tại cửa hàng ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bữa em nhớ giảm giá còn hơn 100 nghìn, sao giờ lên 145 nghìn vậy ạ? Khi nào có chương trình giảm giá nữa ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Khuyến mãi trong khung giờ nào ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mai có giảm giá không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Khi nào hàng về lại ạ? Nếu hàng về thì còn ưu đãi 96 nghìn không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho em hỏi có phải mua bộ hai sản phẩm gồm nước tẩy trang và nước hoa hồng thì mới được giảm giá không ạ? Nếu em muốn mua riêng nước tẩy trang dòng này thì giá bao nhiêu vậy?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Khi nào hết khuyến mãi vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho em hỏi nếu đến cửa hàng thì có được áp dụng giá giảm như trên trang web không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sản phẩm này mua trực tiếp tại cửa hàng có được giá ưu đãi như trên đây không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Nếu mình mua tại cửa hàng thì có được giá khuyến mãi 108 nghìn không, hay quay về giá gốc vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình ra cửa hàng mua thì có được giảm giá không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao mình mua sản phẩm này với sữa rửa mặt Perfect White hoa cúc, nhập mã HASAKIAPP mà không áp dụng được? Đây là đơn đầu tiên mình mua trên ứng dụng ạ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bạn ơi, sao mình đặt một chai xịt khoáng, trong phần thông tin có mã HASAKIAPP nhưng khi áp dụng mã lại hiện “không có sản phẩm áp dụng”?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho mình hỏi sao sản phẩm này mình áp mã HASAKIAPP không được vậy?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Em có đặt một chai nước hoa hồng không mùi Klairs dành cho da nhạy cảm 180ml. Trên đơn có ghi tặng bộ hai bông tẩy trang, nhưng khi nhận hàng thì không có bông tẩy trang ạ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Trên ứng dụng khi mua báo được tặng 2 bông tẩy trang. Mình mới mua nhưng khi giao hàng lại không có 2 bông tẩy trang. Mình cần cửa hàng giải thích.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Tại sao trên ứng dụng báo được tặng 2 bông tẩy trang, nhưng khi mua thì giao hàng lại không có? Nếu không tặng thì nên bỏ phần quà tặng đi.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bạn ơi, mình đặt nước cân bằng da nhưng không được tặng bông tẩy trang.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Giá khuyến mãi lúc 21 giờ áp dụng trực tuyến hay tại cửa hàng vậy ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Em mua sản phẩm nhưng không thấy được kèm quà tặng ạ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình săn khuyến mãi dịp có quà tặng bông tẩy trang, nhưng gói hàng lại không có quà ạ.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình vào mua đúng khung giờ giảm giá, thấy ghi giá 158 nghìn, số lượng 50 và hiển thị vẫn còn hàng, nhưng khi thanh toán lại không được áp dụng giá đó.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Còn quà tặng kèm không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Hạn sử dụng tới khi nào vậy bạn hỗ trợ? Mình thấy sản phẩm đang được giảm giá nhiều quá.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mua trực tiếp tại cửa hàng có được giảm giá như mua trực tuyến không ạ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mua hàng hiển thị giá khuyến mãi kèm quà, nhưng khi bấm đặt hàng thì giá lại thay đổi. Cửa hàng có xác nhận đơn trước khi giao không?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Bình luận của tôi đã bị xóa. Khi bấm vào ưu đãi 167 nghìn, chuyển sang thanh toán lại thành 345 nghìn. Tại sao Hasaki xóa bình luận của khách và không cho đăng bình luận đó trong phần đánh giá sản phẩm? Tôi có gửi bằng chứng rõ ràng nhưng vẫn không được đăng, lại nói chờ duyệt bài rất lâu.",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Chương trình giảm giá chạy từ 10 giờ đến 24 giờ, nhưng mới 10 giờ bấm vào đã hết giảm là sao?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao mình mua hàng ở cửa hàng Phú Quốc để được tặng quà nhưng lại không thấy tặng, toàn báo hết quà?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Sao mình ra cửa hàng mua cùng giá đó mà không có thêm sữa tắm?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Cho mình hỏi ra cửa hàng thì có mua được với giá khuyến mãi không nhỉ?",
+    "main_intent": "promotion"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn hàng thì làm như thế nào ạ? Mình vừa đặt hàng nhưng lỡ nhập nhầm số điện thoại rồi.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Tôi muốn hủy đơn hàng đặt trực tuyến để ra cửa hàng mua. Cách hủy trên ứng dụng như thế nào?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hủy đơn hàng như thế nào vậy? Mình gọi nhưng không được.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn 25051150485, mình đặt trên ứng dụng lâu rồi nhưng chưa giao. Có cách nào hủy đơn không?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Cách hủy đơn hàng như thế nào?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn hàng nhưng không được ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm hai sản phẩm rồi, Hủy giúp mình một sản phẩm với.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Muốn hủy đơn hàng thì phải làm sao ạ? Em lỡ bấm đặt hai lần.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Muốn hủy đơn hàng thì làm như thế nào ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hủy đơn giúp em với ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Sàn này vận hành như thế nào mà đặt món gì cũng bị hủy vậy? Đợt này mình canh 0 giờ đặt nước tẩy trang L’Oreal cũng bị hủy vì báo lỗi giá. Cửa hàng tự đặt giá khuyến mãi 98 nghìn lúc 0 giờ nhưng sau khi đặt lại hủy với lý do lỗi giá.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Muốn hủy đơn thì làm sao để hủy ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hủy đơn được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bây giờ em muốn hủy đơn tẩy trang để đặt loại khác thì phải làm sao ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Cho em hỏi trên ứng dụng không cho hủy đơn ạ? Em đặt nhầm nhưng không bấm hủy được.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Rõ ràng trên ảnh ghi 98 nghìn, nhưng lúc mua được thì cửa hàng lại hủy đơn và báo lỗi giá.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Sao cửa hàng lại hủy đơn hàng của mình vậy?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Em muốn hủy đơn nước tẩy trang để đặt loại khác có được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Em đã hủy đơn nhưng đơn vẫn đang xử lý là sao ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình muốn hủy đơn ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hasaki ơi, mình muốn hủy đơn hàng ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt hàng sao cứ bị tự hủy hoài vậy ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, bên mình hủy giúp em mã đơn này với ạ: 21052611577.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Tôi muốn hủy đơn hàng vì nhập sai địa chỉ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Em cần được hỗ trợ hủy đơn.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Sao không hủy đơn hàng được? Ứng dụng bị lỗi hả?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn hàng, sao lại không được vậy?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình vừa đặt hàng trực tuyến, nhưng bây giờ muốn hủy để ra cửa hàng mua cho nhanh. Hỗ trợ mình với.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn hàng 2510248V0 mình đặt ngày 24/10 nhưng nhập sai số điện thoại. Làm ơn giao lại với số điện thoại 0908219595, hoặc nếu không thể giao lại thì cho mình hủy đơn. Mình có được hoàn tiền ngay không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình vừa đặt nhầm đơn, Hỗ trợ hủy giúp mình trước khi xác nhận được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn của mình chưa giao, mình muốn hủy để đặt lại sản phẩm khác thì làm sao ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm phương thức thanh toán, có thể hủy đơn rồi đặt lại không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình muốn hủy đơn vì chọn sai chi nhánh nhận hàng.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Ứng dụng không hiện nút hủy đơn, Kiểm tra giúp mình với ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình lỡ đặt trùng hai đơn giống nhau, nhờ Hủy bớt một đơn giúp mình.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn này chưa đóng gói thì mình có hủy được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn vì nhập sai địa chỉ giao hàng, nhờ Hỗ trợ giúp.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hủy giúp mình đơn vừa đặt lúc sáng nay được không?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm số lượng sản phẩm, có thể hủy đơn hiện tại để đặt lại không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn hàng đang ở trạng thái chờ xác nhận thì hủy bằng cách nào vậy ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình không còn nhu cầu mua nữa, nhờ Hủy đơn giúp mình ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm màu sản phẩm, muốn hủy đơn cũ để chọn lại màu khác.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn đã thanh toán trực tuyến nhưng chưa giao, nếu hủy thì tiền hoàn về khi nào ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình bấm nhầm đặt hàng, hỗ trợ hủy đơn giúp mình với.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn giao nhanh vì không còn kịp nhận hàng hôm nay.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn của mình bị treo lâu quá, mình muốn hủy thì cần làm gì?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Nếu đơn đã chuyển sang trạng thái đang xử lý thì còn hủy được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn để ra cửa hàng mua trực tiếp, Hỗ trợ giúp mình.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Kiểm tra giúp mình mã đơn này còn hủy được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm sản phẩm cho da khô, muốn hủy đơn để đặt loại cho da dầu.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Lúc đặt mình chọn nhầm địa chỉ cũ, bây giờ muốn hủy đơn có được không?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn hàng chưa có mã vận chuyển thì mình tự hủy trên ứng dụng được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình muốn hủy đơn nhưng hệ thống cứ báo lỗi, phải làm sao?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đã yêu cầu hủy đơn nhưng trạng thái vẫn chưa cập nhật, Kiểm tra giúp mình.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Có thể hủy đơn thanh toán khi nhận hàng trước khi nhân viên giao hàng nhận hàng không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn vì đặt nhầm bộ sản phẩm, nhờ cửa hàng xử lý sớm giúp.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn vừa đặt xong có được hủy ngay không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình cần hủy đơn để đổi sang phương thức nhận tại cửa hàng.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hỗ trợ hủy đơn giúp em vì em nhập nhầm số điện thoại người nhận.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn cũ và đặt lại đơn mới có thêm sản phẩm khác.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn này giao chậm quá nên mình muốn hủy, Hỗ trợ giúp mình với.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình không tìm thấy mục hủy đơn trong chi tiết đơn hàng, nhờ Hướng dẫn ạ.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Em đặt nhầm địa chỉ tỉnh khác, bây giờ hủy đơn để đặt lại được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Bạn ơi, hủy giúp em đơn này vì em chọn nhầm loại sản phẩm.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình muốn hủy đơn trước khi cửa hàng bàn giao cho đơn vị vận chuyển.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Đơn của mình đang chờ lấy hàng, giai đoạn này còn hủy được không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm trên ứng dụng, nhờ Hủy đơn giúp mình càng sớm càng tốt.",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Nếu hủy đơn đã thanh toán bằng ví điện tử thì tiền có tự hoàn về ví không ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Cho mình hỏi điều kiện để hủy đơn hàng trực tuyến là gì ạ?",
+    "main_intent": "cancel_order"
+  },
+  {
+    "sentence": "Hasaki có tính thuế không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Dạ cho em hỏi có thanh toán qua thẻ hoặc ví điện tử được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Thanh toán bằng banking trên ứng dụng như thế nào vậy ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Sao lúc mua hàng bên cửa hàng nói có thể xuất hóa đơn, nhưng đến giờ vẫn chưa xuất vậy bạn hỗ trợ? Mình hỏi cũng không thấy trả lời.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tôi có thắc mắc là sao hóa đơn khi mua tại cửa hàng chỉ ghi tổng số tiền mà không có đơn giá từng sản phẩm? Khi mua xong mang về nhà mới để ý hóa đơn, mua nhiều món nhưng chỉ thấy mỗi tổng tiền. Lần đầu tôi thấy một cửa hàng in hóa đơn như vậy, mong được giải đáp ạ.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tôi đã mua hàng tại cửa hàng và có yêu cầu xuất hóa đơn, nhưng vẫn chưa thấy hóa đơn được xuất ra. Tôi cũng không liên hệ được cửa hàng tại Bà Triệu, Huế.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đã đặt mua và thanh toán trực tuyến rồi nhưng chưa thấy giao hàng. Gọi tổng đài thì không ai nghe máy, bây giờ phải làm sao bạn hỗ trợ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đã tắt thanh toán bằng ví điện tử rồi ạ. Làm thế nào để thanh toán bằng ví điện tử vậy ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Sao lúc đặt giá là 149 nghìn mà khi xem hóa đơn và giao hàng lại thành 274 nghìn ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Bên cửa hàng có thanh toán bằng ví điện tử hoặc cổng thanh toán điện tử không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Sao mình đặt hàng và thanh toán thành công nhưng lại báo lỗi? Tài khoản đã bị trừ tiền, còn đơn hàng thì vẫn đang xử lý là sao ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Bên cửa hàng bảo có hóa đơn đỏ khi mua sản phẩm mà mình không thấy.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Khi mua hàng có xuất hóa đơn giá trị gia tăng không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có thanh toán bằng ví điện tử không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cho em hỏi, em đặt mua nước tẩy trang L’Oreal trên ứng dụng với giá 97 nghìn nhưng khi thanh toán lại thành 135 nghìn. Em mua đúng khung giờ và xử lý đơn 97 nghìn nhưng lại thành giá khác. Bên mình có giải quyết vấn đề này được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn thanh toán đơn hàng bằng thẻ ATM nội địa thì chọn mục nào ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Đơn hàng của mình đã bị trừ tiền nhưng trên ứng dụng vẫn báo chờ thanh toán, Kiểm tra giúp mình với.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cửa hàng có hỗ trợ thanh toán khi nhận hàng cho đơn này không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình cần xuất hóa đơn công ty cho đơn vừa mua, phải gửi thông tin ở đâu ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Thanh toán qua cổng thanh toán điện tử bị lỗi giữa chừng thì mình có cần đặt lại đơn không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đã chuyển khoản rồi, bao lâu thì hệ thống xác nhận thanh toán ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có thể đổi từ thanh toán tiền mặt sang thanh toán trực tuyến cho đơn vừa đặt không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn dùng ví ví điện tử để trả tiền nhưng không thấy lựa chọn, Hướng dẫn giúp mình với.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Đơn này đã thanh toán thành công chưa ạ? Mình chưa thấy thông báo xác nhận.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Nếu thanh toán bị lỗi mà tài khoản đã trừ tiền thì bao lâu được hoàn lại ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cho hỏi mua tại cửa hàng có quẹt thẻ tín dụng được không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình cần hóa đơn giá trị gia tăng cho đơn hàng trực tuyến, cửa hàng có xuất được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tại sao giá thanh toán cuối cùng cao hơn giá sản phẩm mình thấy trong giỏ hàng vậy ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình nhập mã giảm giá rồi nhưng khi thanh toán không thấy trừ tiền, Kiểm tra giúp mình.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Thanh toán qua ví điện tử có được tích điểm thành viên không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn thanh toán lại đơn bị lỗi thì vào đâu để thực hiện ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Đơn hàng báo thanh toán thất bại nhưng ngân hàng đã gửi tin nhắn trừ tiền, giờ xử lý sao cửa hàng?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cửa hàng có nhận thanh toán bằng chuyển khoản ngân hàng trực tiếp không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình thanh toán xong rồi nhưng hóa đơn điện tử chưa gửi về thư điện tử, nhờ Kiểm tra giúp.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có thể tách hóa đơn thành hai phần cho cùng một đơn hàng không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn đổi thông tin mã số thuế trên hóa đơn vừa xuất thì có được không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Khi thanh toán trực tuyến thất bại, đơn hàng có tự giữ sản phẩm cho mình không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cho hỏi hạn thanh toán của đơn hàng này là bao lâu?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đã chọn thanh toán thanh toán khi nhận hàng nhưng muốn trả trước bằng ví điện tử, có đổi được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tại sao ứng dụng không cho mình chọn phương thức thanh toán bằng thẻ quốc tế?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình cần biên nhận thanh toán cho đơn mua ở cửa hàng, Hỗ trợ gửi lại được không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Đơn hàng đã hoàn tiền chưa ạ? Mình chưa thấy tiền về tài khoản.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Bên mình hoàn tiền qua phương thức nào nếu mình đã thanh toán bằng ví điện tử?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình thanh toán bằng thẻ tín dụng, nếu hủy đơn thì bao lâu tiền được hoàn lại ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có mất phí gì khi thanh toán qua ví điện tử không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn biết đơn này đang chờ thanh toán hay đã thanh toán rồi.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cho hỏi có thể thanh toán một phần bằng điểm thành viên và phần còn lại bằng tiền mặt không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình bấm thanh toán hai lần, không biết có bị trừ tiền hai lần không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Ứng dụng báo giao dịch hết thời gian chờ nhưng ngân hàng vẫn trừ tiền, cửa hàng xử lý giúp mình với.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn nhận hóa đơn đỏ cho đơn mua hôm qua thì còn đăng ký được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Thanh toán bằng mã quét ngân hàng có áp dụng cho đơn giao tận nhà không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cửa hàng có hỗ trợ trả góp qua thẻ tín dụng cho đơn hàng giá trị cao không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đã thanh toán nhưng muốn đổi phương thức nhận hoàn tiền, có được không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tổng tiền trên hóa đơn không khớp với số tiền mình thanh toán, nhờ Kiểm tra lại giúp.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có cần gửi ảnh giao dịch chuyển khoản cho Xác nhận không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình không thấy nút thanh toán lại cho đơn bị lỗi, cửa hàng chỉ giúp mình với.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Nếu đơn bị hủy tự động thì khoản tiền mình đã thanh toán sẽ được hoàn thế nào ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Cho mình hỏi thanh toán bằng ví điện tử có được hỗ trợ không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình đặt đơn nhưng chưa thanh toán, giờ muốn trả tiền thì vào mục nào ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình cần kiểm tra trạng thái hoàn tiền của đơn trả hàng tuần trước.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Tại sao hóa đơn không hiển thị từng sản phẩm và đơn giá như lúc mình đặt mua?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Bên mình có gửi hóa đơn điện tử qua thư điện tử sau khi thanh toán không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình thanh toán bằng ví điện tử được không hay chỉ hỗ trợ ví điện tử và cổng thanh toán điện tử?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Đơn hàng báo đã thanh toán nhưng nhân viên giao hàng vẫn thu tiền, mình phải làm sao ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn xác nhận giao dịch thanh toán cho mã đơn này đã thành công chưa.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Có thể xuất hóa đơn theo thông tin cá nhân thay vì công ty không ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình thanh toán rồi nhưng điểm tích lũy chưa cộng, phần này kiểm tra ở đâu ạ?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Bên mình có hoàn lại phí vận chuyển nếu đơn đã thanh toán nhưng giao không thành công không?",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn biết khi hoàn tiền thì hệ thống trả về ví hay về tài khoản ngân hàng ban đầu.",
+    "main_intent": "payment"
+  },
+  {
+    "sentence": "Mình muốn mua kem chống nắng dùng được cho học sinh 13 tuổi, cửa hàng có gợi ý loại nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Chi nhánh nào còn bản 20ml để mình ghé mua trong hôm nay ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình đang tìm sản phẩm dành cho da khô, loại này có đúng nhu cầu đó không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Em thấy sản phẩm vẫn còn hai món trên hệ thống nhưng không thêm vào giỏ được, Kiểm tra giúp em để đặt mua với ạ.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua nhiều sản phẩm trong cùng một lần, cửa hàng có hỗ trợ gộp chung thành một đơn không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn đặt mua sản phẩm này nhưng thao tác không được, Hướng dẫn giúp mình với.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Giá trên ứng dụng và giá mua trực tiếp tại cửa hàng có giống nhau không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Sản phẩm này Bên mình còn bán không hay đã ngừng kinh doanh rồi ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Giá trên ứng dụng với giá tại cửa hàng hiện có chênh lệch không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua hai tuýp nhưng hệ thống chỉ cho chọn một tuýp, cửa hàng có cách nào đặt thêm không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Chi nhánh Gò Vấp còn sữa rửa mặt này không ạ? Hôm qua mình ghé mua vài món nhưng quên mua thêm sản phẩm này.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Nếu ra cửa hàng mua trực tiếp thì có được áp dụng đúng mức giá đang hiển thị ở đây không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Em muốn đặt hàng nhưng hệ thống báo lỗi, Hỗ trợ em mua sản phẩm này với ạ.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Chi nhánh Lê Văn Sỹ, quận 3 còn hàng để mình qua mua không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình còn bán CeraVe SA Smoothing Cleanser không ạ? Em tìm trên trang nhưng chưa thấy sản phẩm.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Giá mua tại cửa hàng của sản phẩm này là 259 nghìn hay 159 nghìn vậy ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua nước tẩy trang dùng hằng ngày cho lớp trang điểm nhẹ, cửa hàng có loại nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua loại nước tẩy trang hai lớp màu xanh nước biển, bên mình còn mẫu đó không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình cần mua sản phẩm dành cho da khô, Cho hỏi loại này có phù hợp để đặt không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình đang tìm sản phẩm cho da nhạy cảm, cửa hàng có còn loại này hoặc dòng tương tự không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua sản phẩm cho da dầu mụn, cửa hàng gợi ý giúp loại nào đang có hàng với ạ.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua bản màu bạc cho da dầu mụn, Bên mình còn hàng không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Chào bên mình, em muốn đặt bộ sản phẩm ba món gồm nước tẩy trang, nước hoa hồng và sữa rửa mặt thì có mua chung được không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình còn loại nước tẩy trang có lớp dầu bên trên không ạ? Mình muốn mua đúng dòng đó.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình da hỗn hợp thiên khô và muốn mua một chai nước tẩy trang phù hợp, cửa hàng nên lấy màu nào ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Em da thiên dầu và dễ nổi mụn, cửa hàng có dòng nào phù hợp đang còn hàng để em đặt không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Da em mùa đông khá khô, mùa hè lại nhiều dầu; em muốn mua một loại dùng quanh năm thì cửa hàng gợi ý giúp em với.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Da mình nhạy cảm và hỗn hợp, mùa nóng nhiều dầu còn mùa lạnh hơi khô; mình muốn mua nước tẩy trang L'Oreal thì nên chọn màu nào ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua sản phẩm cho da dầu, loại này còn phù hợp để đặt không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn tìm dòng ít cồn hoặc dịu nhẹ hơn, Bên mình có sản phẩm nào đang bán không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình da hỗn hợp thiên khô, muốn mua chai phù hợp thì nên chọn màu xanh hay màu hồng ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình cần mua sản phẩm cho da dầu mụn và lỗ chân lông to, Bên mình còn loại nào phù hợp không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình chỉ thoa kem chống nắng hằng ngày và muốn mua nước tẩy trang, cửa hàng có nên lấy bản nắp xanh đậm không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua sản phẩm này, Cho hỏi hạn sử dụng của lô hiện tại đến khi nào ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình da nhạy cảm và muốn mua một chai phù hợp, cửa hàng nên chọn màu nào ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua nước tẩy trang dùng được cho son môi, mascara lâu trôi và kẻ mắt nước, Bên mình còn loại này không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Da mình dầu và ít mụn, mình muốn mua một chai thì nên chọn màu hồng hay màu xanh vậy ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn tìm nước tẩy trang dùng hằng ngày dù ít trang điểm, cửa hàng có loại nào đang bán không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Set này có bán ngoài cửa hàng không ạ? Mình muốn ghé mua trực tiếp.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Da mặt mình hay nổi mụn ẩn và tiết nhiều dầu, mình muốn mua chai phù hợp thì nên chọn màu nào ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mua tại cửa hàng có được giá như trên ứng dụng không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Sản phẩm này hiện còn hàng để mình đặt mua không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Nếu mình mua hai chai thì tổng giá là bao nhiêu vậy ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình còn hàng không ạ? Mình muốn đặt ngay hôm nay.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn đặt nước cân bằng da Klairs nhưng hệ thống báo chỉ giao nội thành Hà Nội, trong khi còn hàng ở Thành phố Hồ Chí Minh. Hướng dẫn giúp mình cách mua với ạ.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Em thấy sản phẩm còn hàng ở Thành phố Hồ Chí Minh nhưng khi đặt mua lại báo chỉ giao khu vực Hà Nội, vậy em phải làm sao để mua được ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Khi nào sản phẩm này có hàng lại ở Thành phố Hồ Chí Minh để mình đặt mua ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Ở thành phố mình hết hàng rồi hả cửa hàng? Khi nào có lại để mình mua ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình có bán phiên bản không mùi của sản phẩm này không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Khi nào chi nhánh Thủ Đức có hàng lại ạ? Mình muốn qua mua trực tiếp.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình mua trực tiếp tại cửa hàng có được không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bao giờ sản phẩm này có hàng lại vậy ạ? Mình đang chờ để đặt mua.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình còn dòng không mùi không ạ? Mình muốn mua loại đó.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Tôi có thể đặt mua sản phẩm này trực tuyến không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua kem chống nắng cho da hỗn hợp thiên dầu, Bên mình còn loại nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Sản phẩm này có bản dung tích nhỏ để mình mua dùng thử trước không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Chi nhánh Nguyễn Trãi còn loại sữa rửa mặt này để mình ghé mua không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình chỉ dùng kem chống nắng hằng ngày và muốn mua nước tẩy trang, cửa hàng gợi ý giúp màu nào phù hợp với ạ.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình đang tìm nước cân bằng da dùng được khi liệu trình retinol, cửa hàng có dòng nào đang bán không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình có bán dòng không hương liệu hoặc ít hương liệu của sản phẩm này không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua kem dưỡng cho da dễ bí tắc lỗ chân lông, Bên mình còn loại nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Sản phẩm này có phiên bản không mùi cho da nhạy cảm để mình đặt mua không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua chai 400ml, hiện còn hàng ở cửa hàng nào tại Hà Nội ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn tìm sữa rửa mặt dịu nhẹ có độ axit kiềm cân bằng, bên mình còn mẫu này không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình đang mang thai tháng thứ ba và muốn mua sản phẩm an toàn hơn, cửa hàng có dòng nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua kem chống nắng nâng tông nhẹ, loại này còn hàng không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình định đặt sản phẩm này, Cho hỏi hạn sử dụng của lô hiện tại còn lâu không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Da mình khô nhưng vùng chữ T hơi dầu, mình muốn mua dòng phù hợp thì nên chọn màu xanh hay màu hồng ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua sản phẩm dùng được cả sáng và tối, Bên mình còn loại này không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình có bán riêng đầu bơm hoặc nắp thay thế cho chai này không? Mình muốn mua thêm.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua trực tiếp tại cửa hàng thì có cần đặt trước trên ứng dụng không?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình đang tìm tinh chất dùng chung được với kem dưỡng chứa niacinamide, cửa hàng có còn loại này không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên mình có sản phẩm phù hợp cho nam da dầu mụn không? Mình muốn mua một loại dễ dùng.",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Mình muốn mua loại dùng được cho vùng mắt mà ít gây cay mắt, Bên mình có sản phẩm nào phù hợp không ạ?",
+    "main_intent": "purchase"
+  },
+  {
+    "sentence": "Bên chăm sóc khách hàng trả lời tin nhắn giúp mình với.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hai ngày liên tục mình được các bạn xưng là nhân viên Hasaki nói yêu cầu thu hồi sản phẩm lỗi và hoàn tiền lại. Cho mình hỏi thông tin này có đúng không?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Chăm sóc khách hàng kém, nhắn tin cửa hàng không phản hồi. Mình mua giao nhanh 2 giờ mà hai ngày sau mới giao.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình nhắn tin trên trang web và mạng xã hội nhưng không nhận được sự hỗ trợ nào từ cửa hàng.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Dịch vụ giao hàng quá tệ, khiếu nại lên tổng đài cũng không thấy phản hồi.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình gọi tổng đài bên bạn 30 phút liên tục nhưng luôn báo máy bận. Mình đặt nhầm CeraVe cho da thường và da khô, muốn đổi sang loại cho da dầu. Mình có thể mang ra cửa hàng tại Phủ Lý, Hà Nam để đổi không? Nhờ Xem giúp mình.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình nhắn tin không thấy phản hồi, gọi điện cũng không được.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình gọi cho cửa hàng không được, nhắn tin cũng không thấy trả lời.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Bạn ơi, sao em nhắn tin cho cửa hàng không được ạ? Hệ thống cứ báo lỗi mãi.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình đã nhắn tin, Xem tin nhắn hỗ trợ hóa đơn giúp mình.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Tại sao cửa hàng không trả lời tin nhắn khách hàng?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hỗ trợ khách hàng mà gọi điện không ai bắt máy, phần nhắn tin thì bấm vào không được. Mình mua nhiều lần rồi mà không thấy cửa hàng có động thái gì hết vậy?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mua hàng gọi điện thì không ai bắt máy, nhắn tin không trả lời, hàng mua cũng không chịu xuất hóa đơn vậy bạn hỗ trợ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hasaki không bán tẩy trang tím này chứ không phải hết hàng. Mình đã nhắn tin và nhân viên nói như vậy, vậy mà trên trang web vẫn đăng là có hàng nhưng hết. Làm việc như thế này là không trung thực và không thống nhất.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Dịch vụ chăm sóc khách hàng thật sự tệ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Bạn ơi, mình nhắn tin thì không ai trả lời. Giao hàng gọi mình ra lấy nhưng ra thì không thấy ai, gọi lại cũng không được. Hôm sau giao lại thì bảo để hàng và gửi số tài khoản chuyển khoản, nhưng lại nói bên mình không gửi số tài khoản rồi tắt máy. Nhắn tin cũng không ai trả lời.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình nhắn tin không ai trả lời. Năm ngày rồi vẫn chưa thấy hàng đâu.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Trả lời tin nhắn giúp em. Đơn hàng đã thanh toán hết rồi mà không thấy giao, rốt cuộc có giao không?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Sao em nhắn tin cho cửa hàng không được ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Kiểm tra tin nhắn giúp chị.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình nhắn tin cho cửa hàng ba ngày rồi mà không ai trả lời.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Thật sự là trước đây đặt Hasaki thì được, nhưng sau này nhân viên làm việc rất tệ. Mình nhắn buổi sáng muốn hủy đơn, đến tối mới trả lời và bảo cho xin thông tin. Mình thấy Hasaki không quan tâm khách hàng, chất lượng chăm sóc khách hàng rất tệ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Đổi trả hàng có vấn đề thì liên hệ ở đâu ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Bạn ơi, kiểm tra tin nhắn giúp mình với.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hasaki làm lộ thông tin khách hàng, khiến khách hàng bị lừa đảo.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hasaki để lộ thông tin khách hàng hay sao vậy? Lần nào đặt hàng cũng bị gọi lừa đảo yêu cầu chuyển khoản. Mình không hiểu chuyện gì đang xảy ra.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hôm nay có người nhắn tin bảo phải chuyển tiền rồi mới giao hàng, nói đây là chính sách mới của Hasaki. Mình có nên chuyển không ạ? Trong khi đơn của em vẫn đang ở trạng thái đang xử lý.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Nhân viên có thái độ vô cùng khó chịu tại cửa hàng Bùi Văn Hòa, Biên Hòa.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Dịch vụ chăm sóc khách hàng thật sự tệ. Mình đặt từ ngày 12/12 đến bây giờ vẫn chưa giao.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hàng đặt bốn ngày rồi nhưng vẫn chưa giao, mình nhắn tin thì không ai trả lời.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình đặt hàng và được báo giao ngày 14/12/2025, nhưng đến ngày 17/12/2025 vẫn chưa thấy giao. Gọi điện và nhắn tin thì không ai trả lời, giống như cửa hàng không muốn bán hàng. Dịch vụ tư vấn và chăm sóc khách hàng quá tệ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Thật sự rất bức xúc. Đơn đặt mãi không giao, nhắn tin cũng không phản hồi. Đây là một trải nghiệm tệ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình gặp nhân viên hỗ trợ trực tiếp được không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình không muốn trao đổi với hệ thống trả lời tự động nữa, kết nối giúp mình với chăm sóc khách hàng.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình xin số tổng đài để hỏi về đơn hàng với ạ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có tổng đài viên nào đang trực không, mình cần hỗ trợ gấp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn gửi khiếu nại về trải nghiệm mua hàng thì liên hệ bộ phận nào?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Nhờ cửa hàng chuyển trường hợp của mình cho nhân viên phụ trách xử lý giúp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần nói chuyện với người thật vì vấn đề này hệ thống trả lời tự động trả lời không đúng.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho em xin kênh liên hệ chăm sóc khách hàng chính thức của Hasaki ạ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình gọi tổng đài không được, bên mình còn kênh hỗ trợ nào khác không?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Phản hồi giúp mình với, mình đã nhắn từ sáng mà chưa có ai hỗ trợ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn gặp quản lý cửa hàng để phản ánh thái độ nhân viên.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Vấn đề này mình đã báo nhiều lần, nhờ bộ phận chăm sóc khách hàng xử lý lại giúp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có thể cho mình nhắn tin trực tiếp với tư vấn viên không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần nhân viên gọi lại để xác nhận thông tin đơn hàng.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình biết thời gian làm việc của tổng đài chăm sóc khách hàng với ạ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn gửi phản ánh chính thức về dịch vụ giao hàng thì gửi ở đâu?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Nhân viên Hỗ trợ chưa rõ, mình muốn liên hệ bộ phận chăm sóc khách hàng trực tuyến.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có ai kiểm tra tin nhắn giúp mình không, mình đang cần hỗ trợ đơn gấp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần được tư vấn trực tiếp về trường hợp bị gọi lừa đảo sau khi đặt hàng.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cửa hàng có thư điện tử chăm sóc khách hàng để mình gửi hình ảnh và thông tin không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn khiếu nại về việc không ai phản hồi tin nhắn trong nhiều ngày.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Làm sao để liên hệ đúng nhân viên phụ trách đơn hàng của mình?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình xin kênh hỗ trợ ngoài giờ hành chính với ạ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình đã gọi nhiều lần nhưng máy bận, nhờ cửa hàng chủ động liên hệ lại giúp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có nhân viên nào hỗ trợ xử lý hóa đơn cho mình không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn nói chuyện với bộ phận giải quyết khiếu nại chứ không chỉ nhận trả lời tự động.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Kiểm tra hộp thư và phản hồi giúp mình, mình đã gửi đầy đủ hình ảnh rồi.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần hỗ trợ trực tiếp vì đơn hàng liên quan đến thông tin cá nhân bị lộ.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình xin cách liên hệ với cửa hàng gần nhất để hỏi tình trạng sản phẩm.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn báo cáo một cuộc gọi giả danh Hasaki thì liên hệ bộ phận nào?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có thể chuyển mình sang nhân viên chăm sóc khách hàng có thẩm quyền xử lý không?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình xin số điện thoại chi nhánh để trao đổi trực tiếp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần phản ánh về thái độ nhân viên tại cửa hàng, nhờ chăm sóc khách hàng tiếp nhận giúp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Hỗ trợ viên có thể gọi lại cho mình trong hôm nay không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình đã gửi yêu cầu hỗ trợ nhưng chưa có mã tiếp nhận, Kiểm tra giúp.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình hỏi kênh nhắn tin chính thức của Hasaki là kênh nào để tránh nhầm lừa đảo?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình muốn gặp bộ phận chăm sóc khách hàng để trao đổi về đơn bị xử lý sai.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Nhờ cửa hàng ưu tiên phản hồi trường hợp của mình vì mình đã chờ quá lâu rồi.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Có cách nào liên hệ trực tiếp với nhân viên thay vì để lại tin nhắn không ạ?",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Mình cần được hỗ trợ bởi bộ phận có thể kiểm tra lịch sử trao đổi trước đó.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Cho mình biết phải liên hệ ai để theo dõi khiếu nại đã gửi hôm qua.",
+    "main_intent": "contact_support"
+  },
+  {
+    "sentence": "Tại sao hệ thống lại tự hủy đơn của mình mà không có bất kỳ thông báo nào? Trong khi lúc mình đặt đơn hàng, hệ thống đã báo thành công.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình có đặt đơn hàng và đã nhận hàng, nhưng không thấy được tặng bông tẩy trang.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Nhờ Kiểm tra đơn hàng giúp mình. Mình đặt bốn ngày rồi vẫn chưa thấy giao.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao mình đặt hàng thành công rồi mà giờ tra đơn lại không có vậy?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình đặt hàng mà không thấy mã vận chuyển.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Kiểm tra giúp em mã đơn 251130500410. Đơn có giao hàng không mà em không thấy?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao ứng dụng Hasaki lại bị lỗi vậy? Mình không xem được đơn đã giao hay chưa, nhắn tin thì cũng không phản hồi. Quá tệ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình có đặt đơn hàng mã 260222502553. Mình thấy trang web báo giao thành công hôm qua, nhưng lúc về nhà thì mình chưa thấy hàng được gửi về. Kiểm tra giúp mình với.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mua hàng được tặng hai chai tẩy trang nhỏ, nhưng khi nhận hàng thì không thấy tặng gì cả.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình nhận hàng mở ra nhưng không thấy được tặng bông tẩy trang.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mới mua xong thấy ghi tặng bông tẩy trang, nhưng khi giao hàng đến thì không có và cũng không được trừ 15 nghìn ạ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình nhận hàng hôm qua, không thấy tặng bông tẩy trang và cũng không được trừ 15 nghìn. Vậy là sao cửa hàng?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Bạn hỗ trợ ơi, em nhận hàng nhưng không thấy phần tẩy trang tặng kèm ạ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Cửa hàng hãy kiểm tra lại đơn hàng 251111502504 giúp em.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao không theo dõi được đơn hàng đã giao hay chưa? Ứng dụng lỗi liên tục, lại có quá nhiều cuộc gọi tự xưng là bên Hasaki. Một thương hiệu lớn mà làm việc rất chán.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Em vừa nhận hàng, tại sao không tặng bông tẩy trang vậy ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Nãy em đặt hàng, hệ thống báo thành công nhưng khi vào xem đơn mua thì lại không thấy đơn nào. Vậy là em chưa đặt thành công ạ? Nhờ Kiểm tra giúp em.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao đơn của mình lại bị hủy vậy?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao cửa hàng tự động hủy đơn hàng của khách mà không thông báo? Mình đợi mãi không thấy, vào trang xem thì đơn đã bị tự hủy mất.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Hasaki không tôn trọng khách hàng. Niêm yết giá khuyến mãi rồi báo sai giá và tự hủy đơn của khách. Mình rất không hài lòng về vấn đề này. Mã đơn: 2604155AADX4PZ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Bên cửa hàng tự hủy đơn của khách.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Ghi khuyến mãi 98 nghìn cho ngày 15/4, vậy mà lại tự hủy đơn của khách. Làm ăn gian dối.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao đơn hàng của em tự nhiên bị hủy vậy ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sáng sớm mình đặt được đơn hàng 98 nghìn, nhưng giờ thấy bị hủy đơn rồi. Sao kỳ vậy ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao đơn hàng của tôi bị hủy vậy? Làm việc không chuyên nghiệp.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao đơn hàng của tôi lại bị hủy vậy? Mã đơn 2604155PHPL34R.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình đặt hàng trên Hasaki hôm 8/9/2025, đợi mãi đến hạn giao cuối ngày 13/9 vẫn không thấy cửa hàng giao hàng. Mình nhắn tin hỏi thì không thấy trả lời, đợi tiếp rồi nhắn tin gần ba ngày cũng không thấy phản hồi. Nay vào xem thì thấy đơn bị hủy mà không có lý do nào. Đây là lần đầu tiên mình đặt hàng trên ứng dụng Hasaki và thật sự rất thất vọng, trải nghiệm rất tệ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Sao lúc đặt là 113 nghìn nhưng khi bấm sang phần đơn hàng lại thành 134 nghìn vậy?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Bạn hỗ trợ ơi, sao đơn của em không có tẩy trang ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn kiểm tra đơn hàng vừa đặt đã được xác nhận chưa ạ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Kiểm tra giúp mình mã đơn này hiện đang ở trạng thái nào.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình đặt hàng xong nhưng chưa thấy trong lịch sử đơn, vậy đã đặt thành công chưa?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn hàng của mình có đang được xử lý không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Nhờ Kiểm tra xem đơn này đã bàn giao cho vận chuyển chưa.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn biết đơn hàng có bị hủy hay vẫn còn hiệu lực.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao mình vào mục đơn hàng lại không thấy mã đơn vừa đặt?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Kiểm tra giúp mình đơn hôm qua đã được xác nhận chưa ạ.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình chưa nhận được thông báo đặt hàng thành công, nhờ Xem lại giúp.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn của mình đang ở bước chuẩn bị hàng hay đã giao cho nhân viên giao hàng rồi?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn tra cứu lịch sử đơn hàng tháng trước thì xem ở đâu ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mã đơn này có tồn tại trên hệ thống không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Nhờ Kiểm tra vì ứng dụng báo đơn đã giao nhưng mình chưa nhận được.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình cần xác nhận lại số lượng sản phẩm trong đơn trước khi giao.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn hàng của mình có kèm quà tặng như trên chương trình không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Xem giúp mình vì nhận hàng rồi nhưng thiếu phần quà tặng trong đơn.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn kiểm tra đơn có áp dụng đúng mã khuyến mãi chưa.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao đơn đang xử lý lại chuyển sang trạng thái đã hủy vậy ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Kiểm tra giúp đơn của mình có bị lỗi hệ thống không, mình bấm xem không được.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình đặt hai sản phẩm nhưng trong chi tiết đơn chỉ thấy một món, nhờ Kiểm tra lại.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn hàng này đã được xác nhận bởi cửa hàng chưa ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn biết khi nào đơn chuyển sang trạng thái đang giao.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Ứng dụng hiển thị trạng thái đơn không cập nhật từ hôm qua, Kiểm tra giúp mình.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mã vận đơn của mình có đúng không ạ? Mình tra không ra thông tin.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Xem giúp vì đơn báo giao thành công nhưng người nhà mình chưa nhận.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình cần kiểm tra lại địa chỉ giao hàng đang lưu trong đơn.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn hàng của mình có bị tách thành nhiều kiện không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao đơn đã đặt thành công nhưng không có thư điện tử xác nhận vậy ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn kiểm tra đơn có còn giữ hàng cho mình không.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Xác nhận giúp mình đơn này có đang chờ thanh toán hay đã qua bước xử lý.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình thấy trạng thái đơn thay đổi liên tục, nhờ Kiểm tra chính xác giúp.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn của mình có nằm trong danh sách giao hôm nay không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn kiểm tra sản phẩm tặng kèm có được ghi trong đơn không.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Xem giúp vì hệ thống báo lỗi khi mình mở chi tiết đơn hàng.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình có đặt đơn sáng nay, nhờ kiểm tra xem đã lên hệ thống chưa.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn này có bị hủy do hết hàng không ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình cần kiểm tra lại mã đơn vì nhân viên giao hàng nói không tìm thấy thông tin.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Cho mình biết đơn hàng này đang chờ xác nhận hay đã hoàn tất xử lý.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình muốn kiểm tra đơn cũ để đối chiếu sản phẩm đã mua trước đó.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Tại sao đơn hàng báo đã đóng gói nhưng mã vận chuyển chưa có ạ?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Kiểm tra giúp mình phần quà khuyến mãi có được thêm vào đơn chưa.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình thấy đơn bị hủy trên ứng dụng nhưng không rõ lý do, nhờ Xem lại.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Đơn hàng của mình đã được cửa hàng tiếp nhận chưa hay vẫn đang treo trên hệ thống?",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Mình cần xác nhận đơn này có giao đúng sản phẩm mình đã chọn không.",
+    "main_intent": "checking"
+  },
+  {
+    "sentence": "Dạ Bạn ơi, em mua nhầm. Sáng nay hàng mới giao cho em, em có thể đổi trả được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Dạ cho em hỏi nếu mua trực tuyến mà sản phẩm lỗi hoặc gặp hàng giả thì có được đổi hàng không ạ? Đổi bằng cách nào ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi qua màu xanh nhạt nhưng không được.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Dạ tối hôm qua em có đặt một chai tẩy tế bào chết Dove đường nâu hương dừa. Bây giờ em muốn đổi sang loại khác, em còn hóa đơn và sản phẩm chưa sử dụng. Em đem ra cửa hàng đổi được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Em lỡ mua trực tuyến sai loại, sản phẩm chưa dùng và còn hóa đơn. Em đem ra cửa hàng gần nhất đổi được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Tại sao cửa hàng giao cho em chai sản xuất tại Trung Quốc vậy? Em muốn trả hàng và hoàn tiền.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Có đổi hàng được không ạ? Mình cần đổi chai tẩy trang L’Oréal nắp xanh đậm sang nắp xanh nhạt. Mình quên xem lại nên lỡ đặt nhầm rồi. Nếu đổi được thì cảm ơn cửa hàng.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Bạn ơi, em đặt nhầm một đơn. Em đã đặt rồi nhưng lại bị nhầm thêm một đơn nữa. Bây giờ không cho hủy thì phải làm sao ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình rất bức xúc khi nước tẩy trang hiệu L’Oréal sản xuất tại Pháp, nhưng khi đặt qua Hasaki thì lại nhận được nước tẩy trang L’Oréval sản xuất tại Trung Quốc. Hasaki làm vậy là sao? Mình quá thất vọng và muốn trả hàng.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Em muốn đổi sản phẩm sang màu khác có được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Em mua nhầm nước tẩy trang, có được đổi không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đặt nhầm nước tẩy trang cho da khô thành nước tẩy trang cho da dầu, có đổi được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Dùng sản phẩm này bị khô và bong da thì nên đổi sang sản phẩm nào ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho mình hỏi mình da dầu nhưng mua nhầm loại dành cho da khô thì có đổi được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Xin chào, nếu tôi đặt hàng nhưng bị nhầm loại hoặc sai dung tích thì có được hỗ trợ đổi trả không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sao hàng có công ty nhập khẩu phân phối mà không có niêm phong và tem chống hàng giả vậy ạ? Mình muốn trả lại vì không cảm thấy yên tâm, có được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình nhận hàng rồi nhưng sản phẩm bị rò rỉ, bên mình cho đổi hoặc trả lại được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm giao không đúng loại mình đặt, mình muốn gửi trả và nhận hoàn tiền.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình mua nhầm dung tích, hàng còn nguyên niêm phong thì có đổi sang dung tích khác được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Hướng dẫn giúp mình quy trình trả hàng trực tuyến với ạ.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã gửi hàng hoàn về rồi, khi nào Xác nhận nhận được hàng ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sau khi trả hàng thì bao lâu tiền được hoàn về tài khoản vậy ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi sản phẩm sang màu khác vì đặt nhầm, hàng vẫn chưa sử dụng.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Hàng nhận được bị móp hộp và nắp không chắc, mình có thể đổi sản phẩm mới không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm không giống hình trên trang web, mình muốn trả lại thì làm thế nào ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã mở hộp nhưng chưa dùng, trường hợp này có được đổi trả không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho hỏi chính sách hoàn tiền khi trả hàng lỗi là như thế nào ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi sang phiên bản không mùi, sản phẩm cũ còn hóa đơn và tem đầy đủ.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình nhận thiếu phụ kiện đi kèm nên muốn trả lại cả đơn, Hỗ trợ giúp mình.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Đơn hàng giao sai sản phẩm, mình có cần tự gửi hàng về cửa hàng không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đặt nhầm loại dành cho da khô, muốn đổi sang loại dành cho da dầu được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Hàng vừa nhận có dấu hiệu đã bị mở niêm phong, mình muốn hoàn trả vì không yên tâm.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã yêu cầu trả hàng trên ứng dụng, bao lâu thì có nhân viên xác nhận ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cửa hàng cho mình địa chỉ gửi hàng hoàn về với ạ.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Nếu sản phẩm bị kích ứng sau lần dùng đầu thì có được đổi trả không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn trả lại sản phẩm vì nhận sai dung tích so với đơn đặt.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Đơn này mình đã thanh toán trực tuyến, nếu trả hàng thì tiền hoàn về đâu ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình cần đổi sản phẩm vì giao nhầm màu, cửa hàng xử lý giúp mình với.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Hàng còn nguyên hộp nhưng mình mất hóa đơn giấy, có đổi được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho hỏi thời hạn đổi trả sau khi nhận hàng là bao nhiêu ngày?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã trả hàng một tuần rồi mà chưa thấy cập nhật hoàn tiền.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm bị vỡ nắp trong quá trình vận chuyển, mình muốn đổi chai khác.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình nhận hàng nhưng thấy hạn sử dụng quá ngắn, có được trả lại không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Kiểm tra giúp yêu cầu hoàn tiền của mình đang xử lý tới đâu.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi sản phẩm sang loại khác cùng giá tiền thì có cần đặt đơn mới không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Nếu đổi hàng tại cửa hàng thì cần mang theo những giấy tờ gì ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình mua trực tuyến nhưng muốn đem sản phẩm ra chi nhánh đổi trực tiếp được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm giao bị thiếu niêm phong bảo vệ, mình muốn trả lại để Kiểm tra.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đặt nhầm hai sản phẩm giống nhau, một món còn nguyên hộp thì có trả lại được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Bên mình nhận được hàng hoàn của mình chưa ạ? Mã vận chuyển đã báo giao thành công.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn hoàn tiền vì đơn giao sai sản phẩm và mình không còn nhu cầu đổi nữa.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Có thể đổi sản phẩm lỗi sang sản phẩm khác thương hiệu không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình gửi yêu cầu trả hàng nhưng chưa thấy phản hồi, nhờ Kiểm tra giúp.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Hàng mới nhận có mùi lạ và màu khác thường, mình muốn trả lại để được hoàn tiền.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình cần biết phí vận chuyển khi gửi trả hàng lỗi do cửa hàng giao sai sẽ do bên nào chịu.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm không phù hợp nên mình muốn đổi sang dòng dịu nhẹ hơn, cửa hàng có hỗ trợ không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã gửi trả sản phẩm qua bưu cục, cần cung cấp mã vận đơn ở đâu ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho hỏi đơn trả hàng đã được duyệt chưa ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình nhận nhầm bộ khác với bộ đã mua, có thể đổi lại đúng bộ sản phẩm không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm bị chảy ra ngoài hộp khi giao tới, mình muốn hoàn tiền thay vì đổi hàng.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Nếu hàng lỗi do vận chuyển thì mình có được đổi mới miễn phí không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn trả sản phẩm vì cửa hàng giao sai phiên bản, quy trình như thế nào ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Đơn hoàn trả của mình bị từ chối, bên mình cho biết lý do được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình mua tại cửa hàng hôm qua, hôm nay phát hiện mua nhầm loại thì có đổi được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho hỏi hàng khuyến mãi kèm theo có cần gửi lại khi trả sản phẩm chính không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi chai bị bể vòi bơm, sản phẩm bên trong chưa dùng lần nào.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đặt hàng trực tuyến nhưng nhận sản phẩm gần hết hạn, muốn trả lại có được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Tiền hoàn của mình chưa về ví dù trạng thái báo hoàn tất, Kiểm tra giúp.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình muốn đổi sang sản phẩm giá cao hơn thì có bù thêm tiền được không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Sản phẩm bị lỗi vòi xịt ngay khi mở hộp, Hỗ trợ đổi mới cho mình với.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình cần hủy yêu cầu đổi hàng và chuyển sang hoàn tiền thì có được không?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Cho mình biết khi trả hàng thì cần đóng gói sản phẩm như thế nào.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Mình đã nhận sai mẫu sản phẩm, không muốn giữ lại nên cần hướng dẫn trả hàng.",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Trường hợp mua nhầm do chọn sai phân loại trên ứng dụng thì cửa hàng có hỗ trợ đổi không ạ?",
+    "main_intent": "return_refund"
+  },
+  {
+    "sentence": "Bạn ơi, mình đặt nhầm số điện thoại thì có đổi được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi số điện thoại thì làm như thế nào?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm địa chỉ, cho hỏi sửa lại như thế nào ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi địa chỉ ạ.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình chỉ muốn mua chai nước tẩy trang thôi thì phải làm sao ạ? Trong mục thêm vào giỏ hàng có kèm theo chai sữa rửa mặt nhưng mình không muốn mua.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình chỉ muốn mua một sản phẩm thì làm thế nào để thêm vào giỏ hàng ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Tại sao mình thấy sản phẩm vẫn còn hàng nhưng lại không thêm vào giỏ hàng được vậy?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Ủa sao mình không thêm vào giỏ hàng sản phẩm 4 chai tẩy trang L’Oréal tím nhỏ được ạ? Nó cứ hiện lỗi.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Bộ bốn chai 95ml sao không thêm vào giỏ hàng để mua được vậy ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Tại sao em không đặt hai chai một lúc được ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Cho hỏi tại sao không cho vào giỏ hàng được ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Nãy em đặt hàng nhưng gửi lộn địa chỉ, Bạn ơi, bây giờ phải làm sao ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Chỉ mình cách thêm vào giỏ hàng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình vừa đặt đơn nhưng nhập sai số điện thoại, cửa hàng sửa giúp mình được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Em muốn đổi địa chỉ giao hàng trước khi đơn được giao cho vận chuyển ạ.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Cửa hàng cho mình thêm một sản phẩm vào đơn vừa đặt được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn bỏ bớt một món trong đơn hàng hiện tại thì làm thế nào ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn của mình chưa xác nhận, có thể đổi thời gian giao sang buổi tối không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình nhập sai tên người nhận, nhờ cửa hàng chỉnh lại giúp mình.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể đổi chi nhánh nhận hàng cho đơn đã đặt không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn sửa ghi chú giao hàng trong đơn, Hỗ trợ giúp với.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn đã đặt rồi nhưng mình muốn đổi sang màu khác, còn kịp không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm số lượng hai chai, giờ muốn chỉnh còn một chai thôi được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Hướng dẫn mình cách chỉnh sửa thông tin đơn hàng trên ứng dụng với ạ.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi phương thức nhận hàng từ giao tận nhà sang nhận tại cửa hàng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Địa chỉ giao hàng bị thiếu số nhà, Cập nhật thêm giúp mình được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi sản phẩm trong giỏ trước khi cửa hàng đóng gói đơn, có được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn hàng đã xác nhận nhưng chưa giao, mình còn sửa được thông tin người nhận không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Giúp mình đổi số điện thoại liên hệ cho mã đơn này với.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình cần thêm mã căn hộ vào địa chỉ giao hàng, nhờ Cập nhật giúp.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể gộp hai đơn vừa đặt thành một đơn giao chung không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn tách đơn hàng thành hai địa chỉ giao khác nhau thì làm được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Em đặt nhầm phân loại sản phẩm, muốn đổi trước khi giao thì phải làm sao ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Cửa hàng cho mình sửa ngày giao hàng sang cuối tuần được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi người nhận hàng vì hôm đó mình đi vắng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn vừa đặt thiếu ghi chú xuất hóa đơn, có bổ sung vào đơn được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình chọn nhầm chi nhánh, có đổi sang chi nhánh gần nhà hơn không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể đổi từ giao thường sang giao nhanh cho đơn đã đặt không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình cần chỉnh lại địa chỉ từ quận 1 sang quận 3, đơn chưa giao thì sửa được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình muốn thêm số tầng và tên tòa nhà vào đơn hàng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình lỡ đặt nhầm bộ sản phẩm, có thể đổi sang mua lẻ từng sản phẩm không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn này mình muốn đổi sang dung tích lớn hơn, Kiểm tra giúp còn sửa được không ạ.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn thay đổi cửa hàng nhận đơn vì chi nhánh cũ xa quá.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Sau khi đặt hàng thì có được chỉnh lại số lượng sản phẩm không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Cho mình biết đơn đang xử lý có còn sửa địa chỉ được không.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi ghi chú giao hàng thành gọi trước khi giao, Cập nhật giúp.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể thêm sản phẩm khuyến mãi vào đơn hiện tại nếu mình quên chọn không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm địa chỉ công ty, muốn chuyển sang địa chỉ nhà thì làm sao?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Nhờ cửa hàng đổi thông tin người nhận từ chị Lan sang anh Minh giúp mình.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn chuyển đơn sang số điện thoại khác để người nhà nhận hàng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn chưa đóng gói thì cửa hàng có thể đổi màu sản phẩm giúp mình không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn sửa đơn vì chọn nhầm bản 200ml thay vì 400ml.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Hỗ trợ thêm một chai nước tẩy trang vào đơn đang xử lý được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình không muốn nhận một sản phẩm trong bộ sản phẩm, có chỉnh đơn được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể đổi lịch giao từ hôm nay sang ngày mai không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn cập nhật mã bưu chính trong địa chỉ giao hàng.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn đặt rồi nhưng mình quên nhập mã thành viên, có bổ sung được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Cho hỏi chỉnh sửa đơn trên trang web ở mục nào vậy?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn thay đổi số lượng từ một hộp thành ba hộp trước khi thanh toán.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Đơn đã chuyển sang chuẩn bị hàng thì còn đổi địa chỉ được không ạ?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình đặt nhầm sản phẩm cho da khô, muốn đổi sang loại cho da dầu trước khi giao.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Kiểm tra giúp mình có thể thêm ghi chú không giao giờ trưa vào đơn không.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi từ thanh toán khi nhận hàng sang thanh toán trực tuyến cho đơn này.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Có thể chỉnh đơn để bỏ sản phẩm hết nhu cầu nhưng vẫn giữ các món còn lại không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình muốn đổi số nhà trong địa chỉ vì nhập thiếu một chữ số.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Bên mình sửa giúp mình tên người nhận bị sai chính tả trong đơn hàng được không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình vừa đặt xong nhưng muốn đổi sang sản phẩm cùng dòng loại khác, có kịp không?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Nếu đơn chưa bàn giao vận chuyển thì mình có thể sửa thông tin giao hàng bằng cách nào?",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Mình cần cập nhật địa chỉ mới vì địa chỉ cũ không có người nhận.",
+    "main_intent": "modify_order"
+  },
+  {
+    "sentence": "Bạn ơi, mình muốn thêm lời nhắn cho nhân viên giao hàng trong đơn đã đặt.",
+    "main_intent": "modify_order"
+  }
+]
